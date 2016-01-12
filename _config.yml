@@ -1,0 +1,28 @@
+name: TheYogaOfAwareness
+favicon: null
+layout_spectrum: 0.2678939481265843
+typography_spectrum: 0.30726552568376064
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.47178665455430746
+  lightness: 0.040364961605519056
+  saturation: 0.6206433677580208
+  rhythmicContrast: 0.8926381408236921
+purpose: []
